@@ -38,6 +38,7 @@
     /* スキル */
     #skill {
         padding: 60px 50px 80px;
+        background-attachment: initial;
     }
     .icon1 , .icon2 , .icon3 , .icon4 , .icon5 , .icon6 {
         width: 104px;
