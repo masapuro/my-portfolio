@@ -1,7 +1,7 @@
 @media (min-width: 0px) and (max-width: 560px) {
     html {
         font-size: 18.5%;
-    }
+    }   
     /* ヘッダー */
     .header-contents img {
         width: 160px;
@@ -54,6 +54,9 @@
     #portfolio {
         padding: 60px 50px 80px;
     }
+    .port-tag {
+        font-size: 6.4rem;
+    }
     .original-site {
         width: 100%;
         height: 200px;
@@ -75,6 +78,9 @@
     }
     .contents-contact {
         height: 300px;
+    }
+    .contents-contact p {
+        text-shadow: 2px 2px #222222;
     }
     .contents-contact img {
         width: 120px;
