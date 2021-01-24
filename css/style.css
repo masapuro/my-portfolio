@@ -175,7 +175,6 @@ nav#humburger li {
   background-image: url(../image/mountain.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
   -webkit-backface-visibility:hidden;
  backface-visibility:hidden;
   filter: drop-shadow(0 0 10px black);
