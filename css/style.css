@@ -45,9 +45,11 @@ p {
 }
 nav#humburger {
   margin: auto 0px auto auto;
+  overflow-x: hidden!important;
 }
 nav#humburger li {
   margin-right: 56px;
+  overflow-x: hidden!important;
 }
 .header-content {
   width: 100%;
