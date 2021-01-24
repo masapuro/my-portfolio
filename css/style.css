@@ -9,6 +9,7 @@ html {
   }
 body{
   position: relative;
+  overflow-x: hidden!important;
 }
 li {
   list-style: none;
